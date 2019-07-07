@@ -1,14 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 h1{
   text-align: center;
   font-family: serif;
-  font-style: italic;
-  font-color: red;
   font-weight: bold;
-  }
-img{
-  display: block;
-  margin: 0 auto;
 }
-body{
-  background-color: #7C8489;
+.logo{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+html{
+  background-color: gray;
+  background-image: url(pic1.jpg);
+}
+.row{
+  max-width: 1200px;
+  margin: auto;
+}
+.main-nav{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+.main-nav li{
+  display: inline-block;
 }
