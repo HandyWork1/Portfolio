@@ -1,0 +1,13 @@
+h1{
+  font-family: serif;
+  font-weight: bold;
+  text-align: center;
+  color: 0D9AF3;
+}
+p{
+  text-align: justify;
+  font-size: 15pt;
+}
+body{
+  background-color: gray;
+}
