@@ -11,13 +11,6 @@ h1{
   height: 200px;
   float: left;
 }
-html {
-  background: url(pic1.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 .row{
   max-width: 1200px;
   margin: auto;
@@ -42,4 +35,7 @@ p{
 .list{
   margin-left: 30px;
   font-size: 15pt;
+}
+body{
+  background-color: gray;
 }
