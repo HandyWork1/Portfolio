@@ -8,8 +8,8 @@ of all the projects that I have reposited on my github repository.
 ## Project setup instructions
 To start using this project use the following commands:
 
-* `git clone https://github.com/HandyWork1`
-* `cd hello-world`
+* `git clone https://github.com/HandyWork1/Portfolio.git`
+* `cd Portfolio`
 * `atom .`
 * `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
 
