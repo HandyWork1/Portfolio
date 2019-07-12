@@ -40,3 +40,7 @@ p{
 body{
   background-color: gray;
 }
+.background{
+  background-image: url('../images/pic1.jpg');
+  background-size: 100%;
+}
